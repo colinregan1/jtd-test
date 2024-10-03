@@ -1,5 +1,5 @@
 ---
-title: Can you see this?
+title: Can you see this
 layout: default
 ---
 
