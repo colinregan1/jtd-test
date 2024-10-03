@@ -1,5 +1,6 @@
 ---
 title: Nested under home
+parent: Home
 layout: default
 ---
 
