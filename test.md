@@ -1,6 +1,7 @@
 ---
 title: Can you see this?
 nav_order: 6
+layout: default
 ---
 
 # Can you see this?
